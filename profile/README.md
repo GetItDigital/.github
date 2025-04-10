@@ -54,7 +54,7 @@ Modulverantwortlich: Universität Paderborn
 
 Voraussetzungen: Module 1,3,4 		
 
-Modulverantwortlich: FH Do
+Modulverantwortlich: Fachhochschule Dortmund
 
 ### Modul 6: Magnetische Größen
 - Magnetisches Feld
@@ -70,7 +70,7 @@ Modulverantwortlich: FH Do
 
 Voraussetzungen: Module 1, 2 			
 
-Modulverantwortlich: BUW
+Modulverantwortlich: Bergische Universität Wuppertal
 
 ### Modul 7: Periodische Größen
 - Zeigerdiagramm
@@ -82,7 +82,7 @@ Modulverantwortlich: BUW
 
 Voraussetzungen: Module 1, 2, 3, 4
 
-Modulverantwortlich: FH Do
+Modulverantwortlich: Fachhochschule Dortmund
 
 ### Modul 8: Schaltungen variabler Frequenz
 - Frequenz- und Phasengang
@@ -91,7 +91,7 @@ Modulverantwortlich: FH Do
   
 Voraussetzungen: Module 1, 2, 3, 4, 7
 
-Modulverantwortlich: FH SWF
+Modulverantwortlich: Fachhochschule Südwestfalen
 
 ### Modul 9: Halbleiterbauelemente
 - Bändermodell
@@ -103,7 +103,7 @@ Modulverantwortlich: FH SWF
   
 Voraussetzungen: Modul 1
 
-Modulverantwortlich: HRW
+Modulverantwortlich: Hochschule Ruhr West
 
 ### Modul 10: Operationsverstärker
 - nichtinvertierender Verstärker
@@ -112,7 +112,7 @@ Modulverantwortlich: HRW
   
 Voraussetzungen: Module 1, 9
 
-Modulverantwortlich: HRW
+Modulverantwortlich: Hochschule Ruhr West
 
 ### Modul 11: Elektrische Maschinen
 - Gleichstrommaschine
@@ -121,7 +121,7 @@ Modulverantwortlich: HRW
 
 Voraussetzungen: Module 1, 2, 3, 6, 7 		
 
-Modulverantwortlich: BUW
+Modulverantwortlich: Bergische Universität Wuppertal
 
 ### Modul 12: Schaltvorgänge
 - Zeitverhalten an C und L
@@ -129,4 +129,4 @@ Modulverantwortlich: BUW
 
 Voraussetzungen: Module 1, 2, 3, 4, 7 		
 
-Modulverantwortlich: FH SWF
+Modulverantwortlich: Fachhochschule Südwestfalen
